@@ -33,7 +33,7 @@ pip install requests
 pip install beautifulsoup4
 ```
 
-2. Copy the code into a .py file (at the bottom of the post) and input your info:
+2. edit the code in the script file and put in your info:
 
 ![links exampkle](https://github.com/rik11112/resourcesgame-best-factory-upgrade/assets/76134097/dbf71324-a51a-4906-957b-8e49534f4111)
 
